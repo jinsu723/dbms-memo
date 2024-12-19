@@ -183,7 +183,7 @@ WHERE 절
 
 - DLC(Data Control Language) : 데이터 제어 언어(권한)
 
-- TCL(Transaction Control Language) : 트랙젝션 제어 언어
+- TCL(Transaction Control Language) : 트랜젝션 제어 언어
 
 2) DML : 데이터 조작 언어(데이터 조작어)
 - SELECT : 조회
